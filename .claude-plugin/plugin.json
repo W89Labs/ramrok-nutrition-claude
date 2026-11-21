@@ -1,13 +1,14 @@
 {
   "name": "ramrok-nutrition",
   "displayName": "RAMROK Nutrition Database",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Search a food database by name or barcode and calculate calories, macros, portions and recipes.",
   "author": {
     "name": "W89 Labs",
     "url": "https://ramrok.com"
   },
   "homepage": "https://nutrition.ramrok.com",
+  "repository": "https://github.com/W89Labs/ramrok-nutrition-claude",
   "privacyPolicyUrl": "https://nutrition.ramrok.com/privacy",
   "icon": "./.claude-plugin/icon.png",
   "keywords": [

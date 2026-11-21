@@ -6,4 +6,4 @@ To scale a match, pass the exact foodId from Search Foods or Barcode Lookup to C
 
 [Developer documentation](https://nutrition.ramrok.com/docs)
 
-Projects can propose corrections when their connection exposes the proposal tool and has explicit foods:submit permission. The standard directory connection requests read and recipe scopes. A reviewer evaluates each proposal. [Source licenses](https://nutrition.ramrok.com/licensing) · [Privacy](https://nutrition.ramrok.com/privacy) · [Support](https://nutrition.ramrok.com/support)
+Projects can propose corrections when their connection exposes the proposal tool and has explicit foods:submit permission. The standard directory connection requests read and recipe scopes. A reviewer evaluates each proposal. [Plugin source](https://github.com/W89Labs/ramrok-nutrition-claude) · [Source licenses](https://nutrition.ramrok.com/licensing) · [Privacy](https://nutrition.ramrok.com/privacy) · [Support](https://nutrition.ramrok.com/support)
