@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ramrok-nutrition": {
+      "type": "http",
+      "url": "https://nutrition.ramrok.com/mcp"
+    }
+  }
+}

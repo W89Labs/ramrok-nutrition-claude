@@ -1,0 +1,21 @@
+{
+  "name": "ramrok-nutrition",
+  "version": "0.1.0",
+  "description": "Search a food database by name or barcode and calculate calories, macros, portions and recipes.",
+  "author": {
+    "name": "W89 Labs",
+    "url": "https://ramrok.com"
+  },
+  "homepage": "https://nutrition.ramrok.com",
+  "privacyPolicyUrl": "https://nutrition.ramrok.com/privacy",
+  "icon": "./.claude-plugin/icon.png",
+  "keywords": [
+    "food database",
+    "nutrition database",
+    "calories",
+    "macronutrients",
+    "barcode lookup",
+    "recipe nutrition",
+    "calorie tracker"
+  ]
+}
