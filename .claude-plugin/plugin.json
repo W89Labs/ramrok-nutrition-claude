@@ -1,8 +1,8 @@
 {
   "name": "ramrok-nutrition",
   "displayName": "RAMROK Nutrition Database",
-  "version": "0.1.3",
-  "description": "Search a food database by name or barcode and calculate calories, macros, portions and recipes.",
+  "version": "0.1.4",
+  "description": "Build a nutrition app under your own brand with RAMROK’s white-label food database.",
   "author": {
     "name": "W89 Labs",
     "url": "https://ramrok.com"
